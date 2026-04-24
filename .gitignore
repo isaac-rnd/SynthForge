@@ -1,0 +1,13 @@
+# Local Claude Code settings — per-developer, not committed
+.claude/
+
+# Source design bundle from Claude Design — kept locally for reference only
+.design/
+
+# Common cruft
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.idea/
+.vscode/
